@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-date: 2023-03-03T10:14:50+08:
+date: 2023-03-03T10:14:50+08
 ---
 ## Introduction
 
